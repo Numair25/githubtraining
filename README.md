@@ -1,4 +1,4 @@
 # githubtraining
 Exploring more about GitHub
 <br>
-Author - Mohammed Numair
+Author - Numair (Developer)
